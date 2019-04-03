@@ -13,3 +13,11 @@ Les outils mis en oeuvre :
   * Une class Employe
   * Une class Service
   * Une class program
+  
+  Schéma base de données : 
+  
+        
+  
+  Diagramme de classe :
+       ![alt text]( https://github.com/mlima95/GesperLibrary/blob/master/Diagramme%20de%20classe.PNG)
+      
