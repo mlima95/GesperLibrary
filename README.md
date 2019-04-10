@@ -2,15 +2,6 @@
 
 **But du TP**
 * Pouvoir gérer une base de données se nommant Gesper en c# à l'aide d'une bibliothèque de classe afin de l'utiliser dans une application console.
-
-Les languages mis en oeuvre :
-  * C#.
-  * MySql database.
-  
-Les outils mis en oeuvre :
-  * Sublime Text.
-  * MySql Server 5.7.
-  * Visual Studio 2010
   
   Ce tp contient cinq classes :
   * Une class Données
@@ -33,3 +24,21 @@ Les outils mis en oeuvre :
   ![GesperRéférence](https://github.com/mlima95/GesperLibrary/blob/master/GesperGalleryConsole.PNG)
   
   On peut ainsi utiliser la bibliothèque de classe sans recréer de classe dans notre projet.
+  
+  ## Languages
+```
+
+- C#
+
+-MySql database
+
+```
+## Outils
+```
+- Visual Studio 2010
+
+- MySql Server 5.7
+
+- Sublime Text (Editor)
+
+```
